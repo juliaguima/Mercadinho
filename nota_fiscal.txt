@@ -1,0 +1,6 @@
+=== NOTA FISCAL ===
+Nome: julia
+Data de Nascimento: 22/05/2000
+Endereço: fffdfddf
+==================
+Valor total da compra à vista: R$ 0.00

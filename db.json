@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "banana",
+        "preco": 13.0,
+        "tipo": "fruta",
+        "descricao": "banana prata",
+        "composicao": ["potassio,semente,casca"],
+        "quantidade":37,
+        "idade": "maior"
+        
+    },
+    {
+        "nome": "massa",
+        "preco": 12.50,
+        "tipo": "massa",
+        "descricao": "massa talharim branca",
+        "composicao": ["massa"],
+        "quantidade": 49,
+        "idade": "maior"
+    },
+    {
+        "nome": "chocolate",
+        "preco":7.0,
+        "tipo": "doce",
+        "descricao": "chocolate ao leite",
+        "composicao":[ "acucra,leite,cacau"],
+        "quantidade": 78,
+        "idade": "maior"
+    },
+    {
+        "nome": "docinhos",
+        "preco": 3.0,
+        "tipo": "doce",
+        "descricao": "doces, brigadeiro e beijinho",
+        "composicao": [
+            "acucar,chocolate,leite ninho"
+        ],
+        "quantidade": 200,
+        "idade": "maior"
+    }
+]
